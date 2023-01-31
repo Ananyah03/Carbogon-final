@@ -1,2 +1,2 @@
 # Carbogon-final
-A decentralised application to trade carbon credit,based on blockchain to improve and revolutionize the carbon credit market.
+a decentralised application to trade carbon credit, based on blockchain to improve and revolutionise the market structure by boosting transparency,lowering transaction costs, and building trust. The technology allows resource transfers and transaction documentation.
